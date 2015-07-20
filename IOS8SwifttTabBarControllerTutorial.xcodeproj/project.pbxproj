@@ -13,6 +13,7 @@
 		8035C8A01B5D3BC100FF1F38 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8035C89F1B5D3BC100FF1F38 /* Images.xcassets */; };
 		8035C8A31B5D3BC100FF1F38 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8035C8A11B5D3BC100FF1F38 /* LaunchScreen.xib */; };
 		8035C8AF1B5D3BC100FF1F38 /* IOS8SwifttTabBarControllerTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8035C8AE1B5D3BC100FF1F38 /* IOS8SwifttTabBarControllerTutorialTests.swift */; };
+		8035C8B91B5D3CFF00FF1F38 /* ColorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8035C8B81B5D3CFF00FF1F38 /* ColorController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8035C8A81B5D3BC100FF1F38 /* IOS8SwifttTabBarControllerTutorialTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOS8SwifttTabBarControllerTutorialTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8035C8AD1B5D3BC100FF1F38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8035C8AE1B5D3BC100FF1F38 /* IOS8SwifttTabBarControllerTutorialTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOS8SwifttTabBarControllerTutorialTests.swift; sourceTree = "<group>"; };
+		8035C8B81B5D3CFF00FF1F38 /* ColorController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				8035C89F1B5D3BC100FF1F38 /* Images.xcassets */,
 				8035C8A11B5D3BC100FF1F38 /* LaunchScreen.xib */,
 				8035C8961B5D3BC100FF1F38 /* Supporting Files */,
+				8035C8B81B5D3CFF00FF1F38 /* ColorController.swift */,
 			);
 			path = IOS8SwifttTabBarControllerTutorial;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8035C89B1B5D3BC100FF1F38 /* ViewController.swift in Sources */,
+				8035C8B91B5D3CFF00FF1F38 /* ColorController.swift in Sources */,
 				8035C8991B5D3BC100FF1F38 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
